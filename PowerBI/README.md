@@ -1,43 +1,43 @@
 # Power BI Dashboard
 
-This folder contains the Power BI dashboard developed as part of the EV Charging Analytics project.
+This folder contains the Power BI dashboard developed as part of the **EV Charging Analytics** project.
 
 ## Dashboard Overview
 
-The Power BI dashboard provides interactive analysis of EV charging infrastructure, including:
+The dashboard provides an interactive analysis of:
 
-- Total Revenue
-- Total Energy Consumption
-- Total Charging Sessions
-- Average Energy per Session
-- Average Charging Duration
-- Revenue by Charging Station
-- Charging Sessions by Station
-- Energy Demand by State
-- Peak Charging Demand by Hour
+- Total charging revenue
+- Total energy consumption
+- Total charging sessions
+- Average energy consumed per session
+- Average charging duration
+- Charging station revenue performance
+- State-level energy demand
+- Charging sessions by station
+- Peak charging demand by hour
+- Interactive state filtering
 
-## Dashboard Features
+## Dashboard Preview
 
-- Interactive State filter
-- KPI cards for key performance indicators
-- Charging station performance analysis
-- State-level energy demand analysis
-- Peak-hour charging demand analysis
-- Business insights and recommendations
+![EV Charging Analytics Dashboard](dashboard.png)
+
+## Insights & Recommendations
+
+The analysis identified key business insights related to charging demand, station performance, and state-level energy consumption.
+
+![Insights and Recommendations](insights.png)
 
 ## Tools Used
 
-- MySQL
-- SQL
 - Power BI Desktop
 - DAX
+- MySQL
+- SQL
 
-## Dashboard Pages
+## Related SQL Analysis
 
-### Page 1 — EV Charging Infrastructure Analytics
+The SQL analysis used to prepare and analyze the EV charging data is available in the [`SQL`](../SQL/ev_charging_analytics.sql) folder.
 
-Interactive dashboard showing overall charging infrastructure performance.
+## Project Repository
 
-### Page 2 — Insights & Recommendations
-
-Summarizes the key findings from the SQL analysis and Power BI dashboard and provides business recommendations.
+This Power BI dashboard is part of the complete **EV Charging Analytics** project, which combines SQL-based data analysis with Power BI visualization.
