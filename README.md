@@ -20,18 +20,18 @@ visualized through an interactive Power BI dashboard.
 
 ## Project Workflow
 
-Raw Data
-   ↓
-MySQL Database
-   ↓
-SQL Analysis
-   ↓
-CTEs / Joins / Aggregations / Window Functions
-   ↓
-Analytical Views
-   ↓
-Power BI
-   ↓
-Interactive Dashboard
-   ↓
-Business Insights & Recommendations
+Raw Data  
+   ↓  
+MySQL Database   
+   ↓  
+SQL Analysis  
+   ↓  
+CTEs / Joins / Aggregations / Window Functions  
+   ↓  
+Analytical Views  
+   ↓  
+Power BI  
+   ↓  
+Interactive Dashboard  
+   ↓  
+Business Insights & Recommendations  
