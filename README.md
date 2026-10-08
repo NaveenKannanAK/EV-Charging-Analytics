@@ -107,8 +107,6 @@ More details about the dashboard:
 
 ## Project Structure
 
-## Project Structure
-
 EV-Charging-Analytics   
 │  
 ├── SQL  
