@@ -107,13 +107,16 @@ More details about the dashboard:
 
 ## Project Structure
 
-```text
-EV-Charging-Analytics  
+## Project Structure
+
+EV-Charging-Analytics   
 │  
 ├── SQL  
 │   └── ev_charging_analytics.sql  
+│   
+├── PowerBI   
+│   ├── README.md  
+│   ├── dashboard.png  
+│   └── insights.png  
 │  
-├── PowerBI  
-│   └── README.md  
-│  
-└── README.md  
+└── README.md
